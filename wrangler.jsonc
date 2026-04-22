@@ -26,14 +26,14 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "YOUR_KV_ID_HERE"
+      "id": "c232259dd564d82a16fc3fa3881ade40"
     }
   ],
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "open-seo",
-      "database_id": "YOUR_D1_ID_HERE",
+      "database_id": "d8163d95-0151-4ef8-926c-afcc9610f58b",
       "migrations_dir": "drizzle"
     }
   ],
